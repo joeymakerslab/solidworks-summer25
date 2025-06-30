@@ -31,7 +31,7 @@ I'm building my certification and CAD modeling skills alongside designing a func
 
 
 
-## 🎯 Certification Roadmap
+## Certification Roadmap
 
 | Goal | Target Date | Status |
 |------|-------------|--------|
@@ -42,7 +42,7 @@ I'm building my certification and CAD modeling skills alongside designing a func
 
 
 
-## 📚 Tools & Resources I'm Using
+## Tools & Resources I'm Using
 
 - SolidWorks 2025
 - [MySolidWorks CSWA Prep Path](https://my.solidworks.com/training/path/14)
